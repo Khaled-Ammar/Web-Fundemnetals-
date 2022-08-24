@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .nav {
     background-color: #333;
     color: aliceblue;
@@ -29,3 +30,36 @@
 a{
     color: aliceblue;
 }
+=======
+.nav {
+    background-color: #333;
+    color: aliceblue;
+    height: 60px;
+    width: 1300px;
+    display: flex;
+    padding: 15px;
+    justify-content: flex-end;
+
+}
+
+.nav-links {
+    color: #333;
+    width: 700px;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.nav-title{
+    padding-right: 500px;
+    padding-bottom: 20px;
+}
+.btn{
+    color: aliceblue;
+    background-color: aqua;
+    box-shadow: 3px 3px 3px 3px black;
+}
+a{
+    color: aliceblue;
+}
+>>>>>>> c26be58bf644e7c3817f4d43c3ab99fc2d9d96db
