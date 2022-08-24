@@ -1,0 +1,28 @@
+.h1 {
+    color: rgb(15, 206, 63);
+    background-color: wheat;
+    border: 3px solid green;
+    border-radius: 2.5cm;
+    height: 2cm;
+    width: 5cm;
+    margin: 60px;
+}
+.a {
+color: aliceblue;
+background-color: rgb(62, 226, 62);
+border: 1cm solid green;
+border-radius: 1cm;
+height: 1cm;
+width: 1cm;
+margin: 60px;
+}
+.h2{
+box-shadow: 30px red;
+color: aliceblue;
+background-color: rgb(43, 74, 214);
+bottom: 80cm solid black;
+margin: 60px;
+height: 2cm;
+width: 5cm;
+
+}
