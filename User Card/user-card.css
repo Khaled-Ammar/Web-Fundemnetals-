@@ -1,0 +1,53 @@
+.box1 {
+    height: 400px;
+    width: 450px;
+    background-color: aliceblue;
+    border: 2px solid black;
+    position: fixed;
+    top: 160px;
+    left: 450px;
+    box-shadow: 2px 3px 2px gray;
+}
+
+.c1 {
+    height: 80px;
+    background-color: #17a2b8;
+
+    width: inherit;
+
+}
+
+.img1 {
+    height: 60px;
+    width: 60px;
+    position: absolute;
+    left: 30px;
+    top: 50px;
+    border-radius: 50% White;
+
+}
+
+.c2 {
+    background-color: aliceblue;
+    color: black;
+    margin: 50px;
+}
+
+.img2 {
+    height: 15px;
+    width: 10px;
+
+    margin-top: 20px;
+
+}
+.img3 {
+    height: 15px;
+    width: 15px;
+
+}
+
+.edit {
+    background-color: aliceblue;
+    color: #17a2b8;
+    box-shadow: none;
+}
