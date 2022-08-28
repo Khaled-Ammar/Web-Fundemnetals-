@@ -1,0 +1,57 @@
+
+.box2{
+    height: 160px;
+    width: 220px;
+    background-color: aliceblue;
+    border: 2px solid black;
+    position: relative;
+    top: 160px;
+    left: 900px;
+    box-shadow: 2px 3px 2px gray;
+    
+}
+.hed1{
+    height: 30px;
+    width: 216px;
+    color: aliceblue;
+    background-color: #333;
+    border: 2px solid black; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.num2{
+    border: 5px solid white;
+    height: 30px;
+    width: 30px;
+    background-color: aliceblue;
+border-radius: 50%;
+    color: black;
+    font-size: small;
+    
+}
+.p21{
+    
+}
+img{
+    height: 30px;
+    width: 30px;
+}
+.box22{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+    margin: 5px;
+}
+.box23{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+    margin: 5px;
+}
+
+
+

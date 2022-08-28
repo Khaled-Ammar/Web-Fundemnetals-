@@ -1,0 +1,46 @@
+.box3 {
+    height: 234px;
+    width: 220px;
+    background-color: aliceblue;
+    border: 2px solid black;
+    position: relative;
+    top: 330px;
+    left: 900px;
+    box-shadow: 2px 3px 2px gray;
+}
+
+.hed2 {
+    height: 30px;
+    width: 216px;
+    color: aliceblue;
+    background-color: #333;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.num500 {
+    border: 5px solid white;
+    border-radius: 50%;
+    background-color: aliceblue;
+    color: #333;
+
+}
+
+.p22 {}
+
+img {
+    height: 30px;
+    width: 30px;
+}
+
+.box33 {
+    justify-content: space-around;
+    margin: 5px;
+    
+}
+.lastdiv{
+    
+    border: 2px solid rgb(121, 119, 119);
+}

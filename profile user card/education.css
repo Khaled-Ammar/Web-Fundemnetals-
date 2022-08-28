@@ -1,0 +1,28 @@
+.box4{
+    height: 200px;
+    width: 450px;
+    background-color: aliceblue;
+    border: 2px solid black;
+    position: relative;
+    top: 600px;
+    left: 700px;
+    box-shadow: 2px 3px 2px gray;
+}
+.hed3{
+    height: 30px;
+    width: 448px;
+    color: aliceblue;
+    background-color: #333;
+    border: 2px solid black; 
+    top: 530px;
+    left: 450px;
+    display: flex;
+    align-items: center;
+    
+}
+.p33{
+margin-left: 10px;
+}
+.p332{
+    color: rgb(71, 69, 69);
+}
