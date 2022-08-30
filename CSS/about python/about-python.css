@@ -1,0 +1,153 @@
+* {
+    margin: 0 auto;
+    padding: 0px;
+}
+
+.header {
+    width: 970px;
+    height: 150px;
+    background-color: #245076;
+    color: #bba505;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+}
+
+.span-1 {
+    color: aliceblue;
+}
+
+.search-1 {
+    height: 70px;
+    width: 250px;
+    border-radius: 15px;
+    background-color: #444444;
+    top: 20px;
+    right: 25px;
+    position: absolute;
+    display: flex;
+
+}
+
+.main1 {
+    height: 276px;
+    width: 970px;
+    background-color: #245076;
+}
+
+.search1 {
+    width: 176px;
+    height: 35px;
+    box-shadow: 2px 2px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+    font-style: italic;
+    text-align: center;
+}
+
+.go {
+    background-color: #245076;
+    color: aliceblue;
+    box-shadow: wheat 0px 0px 1px 1px;
+    margin: 3px;
+}
+
+.box2 {
+    height: 25px;
+    width: 770px;
+    border-radius: 5px;
+    box-shadow: 1px 1px black;
+    display: flex;
+    align-items: center;
+    background-color: #487fad;
+    position: relative;
+color: #ffffff;
+}
+
+.ul1 {
+    list-style-type: none;
+    color: aliceblue;
+    text-decoration: underline;
+    left: 300px;
+    margin: 10px;
+    position: absolute;
+    text-align: center;
+}
+
+.li {
+    color: #bba505;
+
+}
+
+.section-1 {
+    text-align: center;
+    font-weight: bold;
+    margin-left: 200px;
+    margin-top: 15px;
+}
+
+.p-section {
+    height: 110px;
+    width: 200px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 25px;
+    text-align: center;
+    color: #e2c23a;
+
+}
+
+.p1 {
+    height: 50px;
+    width: 500px;
+    color: aliceblue;
+}
+
+.span-pse {
+    color: aliceblue;
+}
+
+.whait-div {
+    height: 100px;
+    width: 770px;
+    background-color: #ffffff;
+    display: flex;
+    text-align: center;
+    left: 100px;
+}
+
+.div-1ul {
+
+    margin-right: 60px;
+    margin-top: 0px;
+}
+
+.div-2ul {
+    margin-top: 0px;
+    margin-left: 90px;
+}
+
+.header-divul {
+    border: 3px solid #73A7D5;
+margin: 10px;
+    color: #73a7d5;
+    background-color: #73a7d5;
+
+}
+#blue{
+
+    color: #87B3DB ;
+}
+
+.bordfooter{
+    height: 90px;
+    width: 970px;
+    background-color: #245076;
+    position: absolute;
+    top: 650px;
+    left: 188px;
+    display: flex;
+    align-items: center;
+    color: #73A7D5;
+}

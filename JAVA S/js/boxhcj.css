@@ -1,0 +1,130 @@
+.dojohead {
+    height: 60px;
+    width: 750px;
+    color: black;
+    background-color: #cccccc;
+    justify-content: space-around;
+    display: flex;
+    align-items: center;
+    margin-left: 300px;
+}
+
+.logbuto {
+    color: aliceblue;
+    background-color: #2b78e4;
+    border: #2b78e4;
+    box-shadow: 2px 2px black;
+    width: 60px;
+}
+
+.box1div {
+    border-style: solid;
+    height: 150px;
+    width: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    position: relative;
+    left: 300px;
+    top: 30px;
+}
+
+.ninja1 {
+    top: 10px;
+    position: absolute;
+    left: 35px;
+}
+
+.par1 {
+    position: absolute;
+    top: 50px;
+    left: 15px;
+    text-align: center;
+}
+
+.lik13 {
+    height: 40px;
+    width: 100px;
+    position: absolute;
+    background-color: #ffd966;
+    box-shadow: 4px 4px black;
+    bottom: 10px;
+    left: 10px;
+}
+
+.par2 {
+    margin-top: 20px;
+    margin-left: 100px;
+}
+
+.box2div {
+    border-style: solid;
+    height: 150px;
+    width: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    position: relative;
+    left: 300px;
+    top: 50px;
+}
+
+.ninja2 {
+    top: 10px;
+    position: absolute;
+    left: 35px;
+}
+
+.par12 {
+    position: absolute;
+    top: 50px;
+    left: 15px;
+    text-align: center;
+}
+
+.par22 {
+    margin-top: 20px;
+    margin-left: 100px;
+}
+
+.lik37 {
+    height: 40px;
+    width: 100px;
+    position: absolute;
+    background-color: #ffd966;
+    box-shadow: 4px 4px black;
+    bottom: 10px;
+    left: 10px;
+}
+
+.lastdiv {
+    border-style: solid;
+    height: 150px;
+    width: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    position: relative;
+    bottom: 322px;
+    left: 770px;
+}
+
+.lasth {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    
+}
+
+.lastbut {
+    background-color: #93c47d;
+    height: 40px;
+    width: 220px;
+    position: absolute;
+    box-shadow: 4px 4px black;
+    left: 20px;
+    top: 85px;
+}
