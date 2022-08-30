@@ -1,0 +1,181 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.hed {
+    height: 60px;
+    width: 800px;
+    background-color: black;
+    color: antiquewhite;
+    display: flex;
+    align-items: center;
+    margin-left: 250px;
+}
+
+.hh {
+    margin-left: 20px;
+}
+
+.nh {
+    height: 60px;
+    width: 800px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 250px;
+}
+
+img {
+    height: 60px;
+    width: 60px;
+    margin-top: 20px;
+    margin-left: 55px;
+    display: block;
+    margin-bottom: 30px;
+}
+
+.asid {
+    height: 300px;
+    width: 180px;
+    border: 2px solid black;
+    margin-left: 250px;
+}
+
+h2 {
+    margin-left: 30px;
+    margin-top: 90px;
+}
+
+.asida {
+    margin-left: 35px;
+    margin-top: 70px;
+    font-size: larger;
+}
+
+.sect {
+    border-style: solid;
+    height: 150px;
+    width: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    position: relative;
+    left: 550px;
+    bottom: 305px;
+}
+
+.pne {
+    top: 30px;
+    position: absolute;
+    left: 35px;
+}
+
+p {
+    font-size: large;
+}
+
+.p9l {
+    top: 30px;
+    position: absolute;
+    left: 260px;
+}
+
+.pl1 {
+    position: absolute;
+    left: 350px;
+    top: 25px;
+    height: 30px;
+    width: 60px;
+    background-color: #ffd966;
+    box-shadow: 3px 3px;
+}
+
+.pt1 {
+    top: 100px;
+    position: absolute;
+    left: 35px;
+}
+
+.artic {
+    border-style: solid;
+    height: 150px;
+    width: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    position: relative;
+    left: 550px;
+    bottom: 280px;
+}
+
+.pni {
+    top: 30px;
+    position: absolute;
+    left: 35px;
+}
+
+.p12l {
+    top: 30px;
+    position: absolute;
+    left: 260px;
+}
+
+.pl2 {
+    position: absolute;
+    left: 350px;
+    top: 25px;
+    height: 30px;
+    width: 60px;
+    background-color: #ffd966;
+    box-shadow: 3px 3px;
+}
+
+.pt2 {
+    top: 100px;
+    position: absolute;
+    left: 35px;
+}
+
+.foot {
+    border-style: solid;
+    height: 150px;
+    width: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    position: relative;
+    left: 550px;
+    bottom: 250px;
+}
+
+.pji {
+    top: 30px;
+    position: absolute;
+    left: 35px;
+}
+
+.p9l2 {
+    top: 30px;
+    position: absolute;
+    left: 260px;
+}
+
+.pl3 {
+    position: absolute;
+    left: 350px;
+    top: 25px;
+    height: 30px;
+    width: 60px;
+    background-color: #ffd966;
+    box-shadow: 3px 3px;
+}
+
+.pt3 {
+    top: 100px;
+    position: absolute;
+    left: 35px;
+}
