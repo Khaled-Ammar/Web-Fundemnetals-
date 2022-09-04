@@ -150,8 +150,36 @@ h3 {
     justify-content: space-between;
 }
 
-span {
+.sp1 {
     color: #cf2a27;
+}
+
+.sp2 {
+
+}
+
+.sp3 {
+    color: #cf2a27;
+}
+
+.sp4 {
+
+}
+
+.sp5 {
+    color: #cf2a27;
+}
+
+.sp6 {
+
+}
+
+.sp7 {
+    color: #cf2a27;
+}
+
+.sp8 {
+margin-right: 1px;
 }
 
 p {
@@ -168,21 +196,25 @@ p {
     display: flex;
     position: fixed;
     bottom: 5px;
-    
+
 }
-.lastimg{
-margin-top: 60px;
-margin-right: 20px;
+
+.lastimg {
+    margin-top: 60px;
+    margin-right: 20px;
 }
-.lastdi{
+
+.lastdi {
     margin-top: 50px;
 }
-.lastbut{
-height: 35px;
-width: 150px;
-background-color: #9FC5F8;
-box-shadow:3px 3px black;
-margin-top: 80px;
-margin-left: 30px;
-} 
+
+.lastbut {
+    height: 35px;
+    width: 150px;
+    background-color: #9FC5F8;
+    box-shadow: 3px 3px black;
+    margin-top: 80px;
+    margin-left: 30px;
+}
+
 /* ----------------------------------------------- */
