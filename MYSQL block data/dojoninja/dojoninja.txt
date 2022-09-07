@@ -1,0 +1,33 @@
+use dojo_ninja_schema ;
+select * from dojos ;
+insert into dojos (first_name,time_at,update_at) values ('tome','2022-9-8','2023-9-6');
+insert into dojos (first_name,time_at,update_at) values ('thabet','2022-4-8','2023-8-6');
+insert into dojos (first_name,time_at,update_at) values ('rad','2022-9-8','2023-9-6');
+delete from dojos where id=1 or id=2 or id=3;
+insert into dojos (first_name,time_at,update_at) values ('tome','2022-9-8','2023-9-6');
+insert into dojos (first_name,time_at,update_at) values ('tane','2022-9-8','2023-9-6');
+insert into dojos (first_name,time_at,update_at) values ('talha','2022-9-8','2023-9-6');
+
+
+
+
+
+------------------------------------------------------------------
+
+
+
+use dojo_ninja_schema ;
+select * from ninjas;
+insert into ninjas (first_name,last_name,time_at,update_at,dojo_id) values ('noor','ammar','2022-9-8','2023-9-6','4');
+insert into ninjas (first_name,last_name,time_at,update_at,dojo_id) values ('noor','ammar','2022-9-8','2023-9-6','4');
+insert into ninjas (first_name,last_name,time_at,update_at,dojo_id) values ('omar','ammar','2022-9-8','2023-9-6','5');
+insert into ninjas (first_name,last_name,time_at,update_at,dojo_id) values ('raed','ammar','2022-9-8','2023-9-6','6');
+insert into ninjas (first_name,last_name,time_at,update_at,dojo_id) values ('motaz','ammar','2022-9-8','2023-9-6','4');
+insert into ninjas (first_name,last_name,time_at,update_at,dojo_id) values ('karem','ammar','2022-9-8','2023-9-6','5');
+insert into ninjas (first_name,last_name,time_at,update_at,dojo_id) values ('ibrahem','ammar','2022-9-8','2023-9-6','6');
+insert into ninjas (first_name,last_name,time_at,update_at,dojo_id) values ('obaida','ammar','2022-9-8','2023-9-6','6');
+
+
+
+
+----------------------------------------------------------------------
