@@ -62,7 +62,7 @@
     align-items: center;
     background-color: #487fad;
     position: relative;
-color: #ffffff;
+    color: #ffffff;
 }
 
 .ul1 {
@@ -130,17 +130,17 @@ color: #ffffff;
 
 .header-divul {
     border: 3px solid #73A7D5;
-margin: 10px;
+    margin: 10px;
     color: #73a7d5;
     background-color: #73a7d5;
 
 }
-#blue{
 
-    color: #87B3DB ;
+#blue {
+    color: #87B3DB;
 }
 
-.bordfooter{
+.bordfooter {
     height: 90px;
     width: 970px;
     background-color: #245076;

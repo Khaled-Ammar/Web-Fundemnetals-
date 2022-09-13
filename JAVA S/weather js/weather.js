@@ -1,4 +1,6 @@
 var ro = document.querySelector(".foot");
+
+// This funcation will make ...
 function fun1() {
     ro.remove();
 }

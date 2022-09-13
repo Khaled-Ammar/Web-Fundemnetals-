@@ -1,0 +1,187 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+/* -------------------------------all page----------------- */
+
+.header_paragraph {
+    height: 50px;
+    width: 100%;
+    background-color: #c27ba0;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+    margin: 0 auto;
+    border: 2px solid black;
+}
+
+/* -------------------------------------header css-------------------------- */
+
+.navpar {
+    height: 50px;
+    width: 1200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: sans-serif;
+    margin: 0 auto;
+}
+
+.input_innav {
+    width: 500px;
+    height: 30px;
+    margin-left: 40px;
+    border: 2px solid black;
+    font-size: large;
+    color: #747474;
+    padding: 5px;
+}
+
+#num {
+    margin-left: 40px;
+}
+
+.imeg_cart {
+    height: 40px;
+}
+
+.nav_choices {
+    height: 40px;
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-around;
+    background-color: #dddddd;
+}
+
+/* ----------------------- css all paragraph nav------------------ */
+.the_first_paragraph_innave {
+    margin-left: 310px;
+    text-decoration: none;
+    color: black;
+}
+
+.the_second_paragraph_innave {
+    text-decoration: none;
+    color: black;
+}
+
+.the_third_paragraph_innave {
+    text-decoration: none;
+    color: black;
+    border-bottom: 5px solid #c27ba0;
+    font-weight: bold;
+}
+
+
+.the_fourth_paragraph_innave {
+    text-decoration: none;
+    color: black;
+}
+
+.the_Fifth_paragraph_innave {
+    text-decoration: none;
+    color: black;
+}
+
+.the_VI_paragraph_innave {
+    margin-right: 280px;
+    text-decoration: none;
+    color: black;
+}
+
+/* --------------------------- nav parr css------------------------- */
+.article {
+    height: 120px;
+    width: 70%;
+    margin: 0 auto;
+    background-color: #c27ba0;
+    color: #ffffff;
+    margin-top: 20px;
+    font-family: cursive;
+    font-size: larger;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+section {
+    height: 120px;
+    width: 70%;
+    margin: 0 auto;
+    margin-top: 20px;
+    display: flex;
+    /* ----section gst one----- */
+}
+
+.section_paragraph {
+    font-family: sans-serif;
+    width: 600px;
+}
+
+.paragraph_span {
+    font-size: large;
+}
+
+select {
+    height: 30px;
+    width: 100px;
+    border: 2px solid black;
+    margin-left: 500px;
+}
+
+/* ----------------------------------end section------------------ */
+
+/* -------------------start footer------------------------------ */
+footer {
+    height: 120px;
+    width: 70%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.footer_imeg {
+    height: 200px;
+    width: 200px;
+}
+
+.footer_firstparagraph {
+    font-family: sans-serif;
+    margin-left: 25px;
+}
+
+.footer_secondparagraph {
+    font-family: sans-serif;
+    margin-left: 55px;
+}
+
+.footer_thirdparagraph {
+    font-family: sans-serif;
+    margin-left: 25px;
+}
+
+.footer_fourthparagraph {
+    font-family: sans-serif;
+    margin-left: 25px;
+}
+
+.footer_button {
+    height: 30px;
+    width: 70px;
+    background-color: #c27ba0;
+    color: #ffffff;
+    margin-top: 5px;
+    margin-left: 70px;
+    font-family: sans-serif;
+    border-radius: 5px;
+
+}

@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PlushStar</title>
+    <link rel="stylesheet" href="exam.css">
+</head>
+
+<body>
+    <header>
+        <p class="header_paragraph"><strong>FREE PHONE GRIP ON SELECT PURCHASES</strong></p>
+    </header>
+
+    <nav class="navpar">
+        <h1>PlushStar</h1>
+        <input class="input_innav" type="search" value="search" placeholder="search">
+        <p id="num">0</p> <img class="imeg_cart" src="cart-dark.png" alt="">
+    </nav>
+
+    <nav class="nav_choices">
+        <a href="" class="the_first_paragraph_innave">Home</a>
+        <a href="" class="the_second_paragraph_innave">New</a>
+        <a href="" class="the_third_paragraph_innave">Products</a>
+        <a href="" class="the_fourth_paragraph_innave">Sales</a>
+        <a href="" class="the_Fifth_paragraph_innave">Blog</a>
+        <a href="" class="the_VI_paragraph_innave" onclick="contact()">Contact Us</a>
+    </nav>
+
+
+    <article class="article">
+        <h1>PlushStar</h1>
+    </article>
+
+
+    <section>
+        <p class="section_paragraph"> <strong>62 Products, sorted by <span class="paragraph_span">Best
+                    Selling</span></strong></p>
+        <select name="select whic price" id="selpr" onchange="select(this)">
+            <option value="Best Selling"> Best Selling</option>
+            <option value="Price">Price</option>
+        </select>
+    </section>
+
+
+    <footer>
+        <div> <img class="footer_imeg" src="product-image.png" alt="#">
+            <h3 class="footer_firstparagraph">Mischief Mouse</h3> <button class="footer_button"
+                onclick="buy()">BUY</button>
+        </div>
+        <div> <img class="footer_imeg" src="product-image.png" alt="#">
+            <h3 class="footer_secondparagraph">Shy Shrew</h3> <button class="footer_button" onclick="buy()">BUY</button>
+        </div>
+        <div> <img class="footer_imeg" src="product-image.png" alt="#">
+            <h3 class="footer_thirdparagraph">Hangry Hamster</h3> <button class="footer_button"
+                onclick="buy()">BUY</button>
+        </div>
+        <div> <img class="footer_imeg" src="product-image.png" alt="#">
+            <h3 class="footer_fourthparagraph">Chilly Chinchilla</h3> <button class="footer_button"
+                onclick="buy()">BUY</button>
+        </div>
+    </footer>
+
+
+    <script src="exam.js"></script>
+</body>
+
+</html>
